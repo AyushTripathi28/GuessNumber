@@ -14,21 +14,14 @@
 
 
 <div>
-<img src="1.jpeg" width="300px" height="500px">
- 
-<img src="2.jpeg" width="300px" height="500px">
-
-
-</div>
-
-<div>
-
- <img src="3.jpeg" width="300px" height="500px">
-<img src="4.jpeg" width="300px" height="500px">
-
+<img src="1.jpeg" width="250px" height="400px">
+<img src="2.jpeg" width="250px" height="400px">
+<img src="3.jpeg" width="250px" height="400px">
+<img src="4.jpeg" width="250px" height="400px">
+<img src="5.jpeg" width="250px" height="400px">
 
 </div>
-<img src="5.jpeg" width="300px" height="500px">
+
 
 ### NOTE:- Working on making project more UI friendly 😊.
 
